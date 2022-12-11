@@ -28,7 +28,10 @@
         
         
         
-          ![](/nuotraukele.jpg)
+          
+Nuotraukos idejimo kodas: ![](/nuotraukele.jpg)
+Bet koks kodas:
+console.log(i); } const numbers = [1, 2, 3, 4, 5]; const sum = numbers.reduce((a, b) =&amp;gt; a + b, 0); console.log(sum); function getArea(width, height) { return width * height; } const user = { name: &amp;#34;John Doe&amp;#34;, age: 30, }; console.log(`Hello, my name is ${user.name}`);``` 
           
         
         </description>
