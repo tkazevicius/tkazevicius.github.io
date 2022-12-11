@@ -9,10 +9,30 @@
     <description>Recent content in Posts on Labas World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Dec 2022 18:38:04 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Dec 2022 18:59:40 +0200</lastBuildDate>
     
 	<atom:link href="https://tkazevicius.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Post puslapis</title>
+      <link>https://tkazevicius.github.io/posts/post/</link>
+      <pubDate>Sun, 11 Dec 2022 18:59:40 +0200</pubDate>
+      
+      <guid>https://tkazevicius.github.io/posts/post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          ![](/nuotraukele.jpg)
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Tomkidzes servas</title>
