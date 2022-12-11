@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Labas World</title>
+    
+    
+    
+    <link>https://tkazevicius.github.io/posts/</link>
+    <description>Recent content in Posts on Labas World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Dec 2022 18:38:04 +0200</lastBuildDate>
+    
+	<atom:link href="https://tkazevicius.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tomkidzes servas</title>
+      <link>https://tkazevicius.github.io/posts/tomkidze/</link>
+      <pubDate>Sun, 11 Dec 2022 18:38:04 +0200</pubDate>
+      
+      <guid>https://tkazevicius.github.io/posts/tomkidze/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Pora sakiniu as dainuoju ir sustoti negaliu. Negalvoju apie tave as savim tiktais tikiu.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
